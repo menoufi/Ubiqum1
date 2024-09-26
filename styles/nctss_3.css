@@ -1,0 +1,82 @@
+h1{font-size: 54px;
+    text-align:center;
+    margin-top:50px;
+    margin-left:450px;
+    width:40%;
+    border-bottom: 4px dashed black;
+    }
+    
+    nav{
+    text-align:center;
+    font-size:32px;
+    }
+    
+    ul{list-style-type: none;
+    margin: 50px;
+    padding:0px;}
+    
+    li {display:inline;
+        padding:10px;
+    }
+    
+    a {
+        color:rgb(201, 143, 36);
+        text-decoration: none; 
+    }
+    
+    li a:hover {
+        color: #111;
+      }
+    
+     .logo  {
+        margin-left: 520px;
+        display:block;
+    }
+
+    .car2,.finish {
+        display:block;
+        margin-left: 780px;
+        margin-top: -200px;
+    }
+
+    .car {
+        display:block;
+        margin-left: 780px;
+        margin-top: -200px;
+    }
+
+
+
+    .car2, .car, .finish {
+        border: 4px dashed rgb(14, 14, 14);
+        border-radius:100px;
+    }
+    
+    .mission {
+        width:40%;
+        text-align:center;
+        margin-left: 460px;
+        margin-top: 25px;
+        padding:0;}
+
+        .events {
+        width:40%;
+        text-align:center;
+        margin-left: 440px;
+        margin-top: 25px;
+        padding:0;
+        }
+
+        .email {
+        width:40%;
+        text-align:center;
+        margin-left: 460px;
+        margin-top: 30px;
+        padding:0;
+        }
+    
+        .mission {font-size:20px;}   
+        .events {font-size: 24px;}
+        .email {font-size: 27px;}
+    
+        body {font-family: Calibri, sans-serif;}

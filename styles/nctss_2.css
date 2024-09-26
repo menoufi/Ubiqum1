@@ -1,0 +1,146 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+
+h1 {
+    font-size: 54px;
+    text-align: center;
+    margin-top: -150px; 
+    margin-right: 550px;
+    padding-top: 0; 
+}
+
+
+.Norcal {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+nav {
+    text-align: center;
+    font-size: 23px;
+    margin-right: 300px;
+    margin-top: -20px;
+    z-index: 1;
+    position:absolute;
+    right:5px;
+    
+}
+
+ul {
+    list-style-type: none;
+    padding: 0px;
+    float: right;
+}
+
+li {
+    display: inline;
+    padding: 10px;
+    border: 1px solid black;
+    padding: 6.5px 30px;
+    background-color: #008ECC;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+li a:visited { 
+    text-decoration: none; 
+    color: white;
+}
+
+li:hover {
+    background-color: green;
+}
+
+.logo {
+    float: left;
+    margin-left: 150px;
+    margin-right: -200px;
+}
+
+.mission {
+    width: 40%;
+    margin-top: 15px;
+    margin-bottom: 50px;
+    margin-right: 380px;
+    margin-left: 380px; 
+    padding: 0px;
+    font-size:20px;
+}
+
+.events {
+    width: 40%;
+    margin-top: 40px;
+    margin-bottom: 10px;
+    margin-right: 380px;
+    margin-left: 380px; 
+    padding: 0px;
+    font-size:20px;
+}
+
+.events p {
+    margin-bottom:10px;
+}
+
+.email {
+    width: 40%;
+    margin-top: 40px;
+    margin-bottom: 50px;
+    margin-right: 380px;
+    margin-left: 380px; 
+    padding: 0px;
+    font-size:30px;
+}
+
+.Norcal {
+    margin: 0 auto;
+}
+
+.car2, .car, .finish {
+    width: 70%;
+    height: 200px;
+    margin-left: 200px;
+    position: relative;
+    top: 110px; 
+    z-index: -1;
+}
+
+.NCTTS {
+    margin-top:194px;
+    font-size: 39px;
+    border-left: 4px solid black;
+    border-right: 4px solid black;
+    border-bottom: 4px solid black;
+    width:70%;
+    margin-left:200px;
+    text-align: center;
+}
+
+
+h2 {
+    margin-top:20px;
+    margin-bottom:5px;
+}
+
+
+
+
+
+
+
+

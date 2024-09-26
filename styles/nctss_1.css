@@ -1,0 +1,57 @@
+h1{font-size: 54px;
+text-align:center;
+margin-right:350px;
+margin-top:65px;}
+
+nav{
+text-align:center;
+font-size:28px;
+margin-right: 580px;
+}
+
+ul{list-style-type: none;
+margin: 50px;
+padding:0px;}
+
+li {display:inline;
+    padding:10px;
+}
+
+a {color:#008ECC;}
+
+li a:hover {
+    color: #111;
+  }
+
+  .logo, .car2, .car, .finish {
+    float: left;
+    margin-left: 150px;
+    margin-right: -200px;
+}
+
+    .mission, .events, .email {width:40%;
+    margin:-20px 380px;
+    padding:0;}
+
+    .mission {font-size:19px;}   
+    .events {font-size: 19px;}
+    .email {font-size: 27px;}
+
+    body {font-family: Calibri, sans-serif;}
+    
+
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
