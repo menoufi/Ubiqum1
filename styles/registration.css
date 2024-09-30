@@ -1,0 +1,46 @@
+.Intro > label {
+    padding: 2px;
+    display:block;
+}
+
+
+.motor, .experience, .racing, .text {
+    margin-top:30px;
+    margin-bottom: 30px;
+}
+
+p {
+    width:50%;
+}
+
+body {
+    margin-left:250px;
+    margin-top:40px;
+    margin-bottom:80px;
+}
+
+select, input:not(.gender1, .button) {
+    width:250px;
+    height:25px;
+    margin-left:10px;
+    border:1px solid black;
+}
+
+select {
+    margin-top: 10px;
+}
+
+textarea {
+    height:100px;
+    width:300px;
+    resize:none;
+    border:1px solid black;
+}
+
+.button {
+    height: 50px;
+    width:300px;
+}
+
+
+
